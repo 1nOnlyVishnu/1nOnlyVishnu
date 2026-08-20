@@ -1,8 +1,8 @@
 # Hi, I'm Vishnu 👋
 
-### Java | Python | MERN | AI/ML | Full-Stack Developer 
+### Java | Python | MERN | AI/ML | Full-Stack Developer
 
-I build stuff bro
+I build things, solve problems.
 
 ---
 
@@ -11,47 +11,65 @@ I build stuff bro
 - 💻 Full-Stack Developer
 - ⚡ Experienced with **MERN Stack**
 - 🐍 Working with **Python, Django, Flask & FastAPI**
-- 🧠 Strong foundation in **DSA & Core Computer Science**
+- ☕ Strong foundation in **Java, DSA & Core Computer Science**
 - 🔧 Experienced with **REST APIs, Databases & Backend Systems**
-- 🚀 Building and maintaining **production-ready applications**
+- 🏗️ Building and maintaining **production-ready applications**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-`Java` `JavaScript` `Python` 
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
 
 ### Frontend
-`React` `HTML` `CSS`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### Backend
-`Node.js` `Express.js` `Flask`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
+</p>
 
 ### Databases
-`MongoDB` `MySQL`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### AI / ML
-`Scikit-learn` `Pandas` `Numpy` `LightGBM` `SHAP`  `Dask`
+
+`Scikit-learn` `Pandas` `NumPy` `LightGBM` `SHAP` `Dask`
 
 ### Tools
-`Git` `GitHub` `VS Code` `Postman`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Selected Work
 
-### 💬 Chat Application
-Real-time chat application with modern messaging functionality.
+### 💬 Yap-Hub — Chat Application
 
-**Tech:** MERN · Socket.IO
+Real-time chat application built with the MERN stack and Socket.IO.
+
+**Tech:** React · Node.js · Express · MongoDB · Socket.IO
 
 🔗 [View Repository](https://github.com/1nOnlyVishnu/Yap-Hub-Chat-App)
 
 ---
 
 ### 🍳 Cloud Kitchen
-A full-stack application for a cloud-kitchen experience.
+
+Full-stack cloud-kitchen application.
 
 **Tech:** React Native · Node.js · Express · MongoDB
 
@@ -60,7 +78,8 @@ A full-stack application for a cloud-kitchen experience.
 ---
 
 ### 🛡️ XAI Network Intrusion Detection
-Machine-learning based network intrusion detection with explainable AI.
+
+Machine-learning based network intrusion detection system with explainable AI.
 
 **Tech:** Python · LightGBM · SHAP · Dask
 
@@ -70,17 +89,17 @@ Machine-learning based network intrusion detection with explainable AI.
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nOnlyVishnu&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nOnlyVishnu&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nOnlyVishnu&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nOnlyVishnu&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: [@1nOnlyVishnu](https://github.com/1nOnlyVishnu)
-- LinkedIn: **Add your LinkedIn here**
-- Email: **Add your email here**
+- LinkedIn: **[my_LinkedIn](http://www.linkedin.com/in/vpn2004)**
+- Email: **vishnuprasadn88@gmail.com**
 
 ---
 
