@@ -9,11 +9,11 @@ I build stuff bro
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer
-- ⚡ Building with **MERN Stack**
-- 📱 Exploring **React Native**
-- 🧠 Interested in **AI/ML & Cybersecurity**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🔨 Currently building and experimenting with new projects
+- ⚡ Experienced with **MERN Stack**
+- 🐍 Working with **Python, Django, Flask & FastAPI**
+- 🧠 Strong foundation in **DSA & Core Computer Science**
+- 🔧 Experienced with **REST APIs, Databases & Backend Systems**
+- 🚀 Building and maintaining **production-ready applications**
 
 ---
 
@@ -84,4 +84,4 @@ Machine-learning based network intrusion detection with explainable AI.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Clean work.
